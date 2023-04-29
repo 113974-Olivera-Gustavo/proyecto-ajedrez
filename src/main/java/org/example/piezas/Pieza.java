@@ -4,9 +4,9 @@ import java.awt.*;
 
 public abstract class Pieza {
     //Codigo de piezas
-    private String color;
-    private int fila;
-    private int columna;
+    protected String color;
+    protected int fila;
+    protected int columna;
 
     public Pieza(String color, int fila, int columna) {
         this.color = color;
