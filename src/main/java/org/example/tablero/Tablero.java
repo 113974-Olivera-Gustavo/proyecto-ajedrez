@@ -1,6 +1,7 @@
 package org.example.tablero;
 
 public class Tablero {
-    //Codigo tablero
+    //Codigo tablero agregar interfaz de usuario(implementacion)
 
+    
 }
