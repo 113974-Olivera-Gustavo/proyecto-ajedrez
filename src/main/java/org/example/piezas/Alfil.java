@@ -18,7 +18,7 @@ public class Alfil extends Pieza{
         while (filaActual != filaDestino && columnaActual != columnaDestino){
             filaActual+= Integer.compare(filaDestino,filaActual);
             columnaActual += Integer.compare(columnaDestino,columnaActual);
-
+            
         }
 
 
